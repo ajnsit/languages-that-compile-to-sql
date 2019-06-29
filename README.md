@@ -16,7 +16,7 @@ A curated list of languages that compile to, or generate, SQL
 
 | Name | Description |
 | :---- | :---- |
-| [Ermine](https://ermine-language.github.io/) | Lazy, Pure, with Strong Static Types. It's Haskell-like Functional Programming Language that adds support for Row Types. |
+| [Ermine](https://ermine-language.github.io/) | Lazy, Pure, with Strong Static Types. It's Haskell-like Functional Programming Language that adds support for Row Types. Compiles to SQL queries. |
 
 ## Visual Programming
 
