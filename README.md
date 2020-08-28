@@ -18,6 +18,13 @@ A curated list of languages that compile to, or generate, SQL
 | :---- | :---- |
 | [Ermine](https://ermine-language.github.io/) | Lazy, Pure, with Strong Static Types. It's Haskell-like Functional Programming Language that adds support for Row Types. Compiles to SQL queries. |
 
+## Alternate Query Syntax
+
+| Name | Description |
+| :---- | :---- |
+| [GraphQL](https://graphql.org/) | Schema description, query, and manipulation langauge, well suited towards web services. There's an implementation available that compiles GraphQL to Postgres SQL queries [Hasura GraphQL Engine](https://github.com/hasura/graphql-engine). |
+
+
 ## Visual Programming
 
 TODO
