@@ -5,6 +5,7 @@ A curated list of languages that compile to, or generate, SQL
 
 - [Strongly Typed](#strongly-typed)
 - [Visual Programming](#visual-programming)
+- [Alternate Query Syntax](#alternate-query-syntax)
 - [Java/JVM](#javajvm)
 - [Javascript](#javascript)
 - [ORMs](#orms)
