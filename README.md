@@ -30,14 +30,6 @@ A curated list of languages that compile to, or generate, SQL
 
 TODO
 
-## Java/JVM
-
-TODO
-
-## Javascript
-
-TODO
-
 ## ORMs
 
 TODO
