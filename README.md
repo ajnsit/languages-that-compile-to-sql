@@ -21,7 +21,7 @@ A curated list of languages that compile to, or generate, SQL
 
 | Name | Description |
 | :---- | :---- |
-| [GraphQL](https://graphql.org/) | Schema description, query, and manipulation langauge, well suited towards web services. There's an implementation available that compiles GraphQL to Postgres SQL queries [Hasura GraphQL Engine](https://github.com/hasura/graphql-engine). |
+| [GraphQL](https://graphql.org/) | Schema description, query, and manipulation langauge, well suited for web services. There's an implementation available that compiles GraphQL to Postgres SQL queries ([Hasura GraphQL Engine](https://github.com/hasura/graphql-engine)). |
 
 
 ## Visual Programming
