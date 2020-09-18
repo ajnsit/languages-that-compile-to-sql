@@ -23,6 +23,7 @@ A curated list of languages that compile to, or generate, SQL
 | Name | Description |
 | :---- | :---- |
 | [GraphQL](https://graphql.org/) | Schema description, query, and manipulation langauge, well suited for web services. There's an implementation available that compiles GraphQL to Postgres SQL queries ([Hasura GraphQL Engine](https://github.com/hasura/graphql-engine)). |
+| [Datalog](https://en.wikipedia.org/wiki/Datalog) | Declarative and non-turing complete subset of prolog, which can be used to query relational databases. Query evaluation with Datalog is based on first order logic and is sound and complete. Allows recursive queries. Some widely used database systems include ideas and algorithms developed for Datalog. For example, the SQL:1999 standard includes recursive queries, and the Magic Sets algorithm (initially developed for the faster evaluation of Datalog queries) is implemented in IBM's DB2. |
 
 ## Language DSLs
 
