@@ -29,7 +29,7 @@ A curated list of languages that compile to, or generate, SQL
 
 | Name | Description | Source |
 | :---- | :---- | :---- |
-| [Datalog](https://en.wikipedia.org/wiki/Datalog) | Declarative and non-turing complete subset of prolog, which can be used to query relational databases. Query evaluation with Datalog is based on first order logic and is sound and complete. Datalog programs can be translated to **recursive SQL** queries (part of the SQL:1999 standard). The problem of deciding whether for a given Datalog program there is an equivalent nonrecursive program (corresponding to a positive relational algebra query, or, equivalently, a formula of positive existential first-order logic, or, as a special case, a conjunctive query) is known as the **Datalog boundedness problem** and is **undecidable** | https://github.com/ekoontz/psqlog (Any others?) |
+| [Datalog](https://en.wikipedia.org/wiki/Datalog) | Declarative and non-turing complete subset of prolog, which can be used to query relational databases. Query evaluation with Datalog is based on first order logic and is sound and complete. Datalog programs can be translated to **recursive SQL** queries (part of the SQL:1999 standard). | https://github.com/ekoontz/psqlog (Any others?) |
 | [Yedalog](https://research.google/pubs/pub43462/) | A logic programming language from Google that compiles to SQL | NONE |
 | [Logica](https://logica.dev/) | Successor to Yedalog, and inspired by Datalog, it's an open source logic programming language from Google. It compiles to SQL which can run on Google BigQuery, and has experimental support for PostgreSQL and SQLite | https://github.com/EvgSkv/logica |
 
