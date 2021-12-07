@@ -11,7 +11,7 @@ A curated list of languages that compile to, or generate, SQL
 - [ORMs](#orms)
 - [SQL Extensions](#sql-extensions)
 - [Ideas/Proposals](#ideasproposals)
-- [Others](#others)
+- [Misc](#misc)
 
 ## Strongly Typed
 
@@ -53,4 +53,6 @@ TODO
 
 TODO
 
-## Others
+## Misc
+
+1. Advent of code 2021 solved with SQL queries. [Code](https://github.com/mitchellh/advent-2021-sql), [Video explanations for each day](https://youtube.com/playlist?list=PL4z1WbdlT5GJqdGnuvoqw4dOdB2etJ6sd).
