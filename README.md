@@ -24,7 +24,7 @@ A curated list of languages that compile to, or generate, SQL
 | Name | Description | Source |
 | :---- | :---- | :---- |
 | [GraphQL](https://graphql.org/) | Schema description, query, and manipulation langauge, well suited for web services. There's an implementation available that compiles GraphQL to Postgres SQL queries ([Hasura GraphQL Engine](https://github.com/hasura/graphql-engine)). | https://github.com/hasura/graphql-engine |
-| [EFSqlTranslator](https://github.com/ethanli83/EFSqlTranslator) | A standalone [LINQ](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/linq/) to SQL translator written in C#. | https://github.com/ethanli83/EFSqlTranslator |
+| [LINQ](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/linq/) | LINQ is a declarative and typed query syntax that adds query capabilities to C#. Atleast one [standalone LINQ to SQL translator](https://github.com/ethanli83/EFSqlTranslator) written in C# is available as open source. | https://github.com/ethanli83/EFSqlTranslator |
 
 
 ## Logic Programming
