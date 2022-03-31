@@ -57,6 +57,11 @@ TODO
 
 TODO
 
+## Alternatives to SQL (that do not compile to SQL)
+
+1. [EdgeDB](https://www.edgedb.com/) is a new database and query language syntax. EdgeDB schemas contain objects which can link to other objects to form *typed* schema graphs which can be queried.
+
 ## Misc
 
 1. Advent of code 2021 solved with SQL queries. [Code](https://github.com/mitchellh/advent-2021-sql), [Video explanations for each day](https://youtube.com/playlist?list=PL4z1WbdlT5GJqdGnuvoqw4dOdB2etJ6sd).
+
