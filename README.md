@@ -25,6 +25,7 @@ A curated list of languages that compile to, or generate, SQL
 | :---- | :---- | :---- |
 | [GraphQL](https://graphql.org/) | Schema description, query, and manipulation langauge, well suited for web services. There's an implementation available that compiles GraphQL to Postgres SQL queries ([Hasura GraphQL Engine](https://github.com/hasura/graphql-engine)). | https://github.com/hasura/graphql-engine |
 | [LINQ](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/linq/) | LINQ is a declarative and typed query syntax that adds query capabilities to C#. Atleast one [standalone LINQ to SQL translator](https://github.com/ethanli83/EFSqlTranslator) written in C# is available as open source. | https://github.com/ethanli83/EFSqlTranslator |
+| [Malloy](https://github.com/looker-open-source/malloy) | is an experimental language for describing data relationships and transformations. It is both a semantic modeling language and a querying language that runs queries against a relational database. Malloy is currently available on BigQuery and Postgres. Malloy queries compile to SQL | https://github.com/looker-open-source/malloy |
 
 
 ## Logic Programming
@@ -60,6 +61,10 @@ TODO
 ## Alternatives to SQL (that do not compile to SQL)
 
 1. [EdgeDB](https://www.edgedb.com/) is a new database and query language syntax. EdgeDB schemas contain objects which can link to other objects to form *typed* schema graphs which can be queried.
+
+## Relational Language extensions (that do not compile to SQL)
+
+1. [Morel](https://github.com/hydromatic/morel) is a Standard ML interpreter which also adds relational extensions for powerful querying capabilities.
 
 ## Misc
 
