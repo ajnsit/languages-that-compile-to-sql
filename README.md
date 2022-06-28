@@ -11,6 +11,8 @@ A curated list of languages that compile to, or generate, SQL
 - [ORMs](#orms)
 - [SQL Extensions](#sql-extensions)
 - [Ideas/Proposals](#ideasproposals)
+- [Alternatives to SQL (that do not compile to SQL)](#alternatives-to-sql-that-do-not-compile-to-sql)
+- [Relational Language Extensions (that do not compile to SQL)](#relational-language-extensions-that-do-not-compile-to-sql)
 - [Misc](#misc)
 
 ## Strongly Typed
