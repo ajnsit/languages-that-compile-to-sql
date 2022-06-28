@@ -4,10 +4,10 @@ A curated list of languages that compile to, or generate, SQL
 ## Table of contents
 
 - [Strongly Typed](#strongly-typed)
-- [Visual Programming](#visual-programming)
 - [Alternate Query Syntax](#alternate-query-syntax)
 - [Logic Programming](#logic-programming)
 - [Language DSLs](#language-dsls)
+- [Visual Programming](#visual-programming)
 - [ORMs](#orms)
 - [SQL Extensions](#sql-extensions)
 - [Ideas/Proposals](#ideasproposals)
@@ -67,6 +67,7 @@ TODO
 ## Relational Language extensions (that do not compile to SQL)
 
 1. [Morel](https://github.com/hydromatic/morel) is a Standard ML interpreter which also adds relational extensions for powerful querying capabilities.
+2. [Project:M36](https://github.com/agentm/project-m36) implements a relational algebra engine as inspired by the writings of Chris Date. Unlike most database management systems (DBMS), Project:M36 is opinionated software which adheres strictly to the mathematics of the relational algebra. The purpose of this adherence is to prove that software which implements mathematically-sound design principles reaps benefits in the form of code clarity, consistency, performance, and future-proofing. Project:M36 can be used as an in-process or remote DBMS. Project:M36 is written entirely in the Haskell programming language.
 
 ## Misc
 
