@@ -6,10 +6,6 @@ A curated list of languages that compile to, or generate, SQL
 - [Strongly Typed](#strongly-typed)
 - [Alternate Query Syntax](#alternate-query-syntax)
 - [Logic Programming](#logic-programming)
-- [Language DSLs](#language-dsls)
-- [Visual Programming](#visual-programming)
-- [ORMs](#orms)
-- [Ideas/Proposals](#ideasproposals)
 - [Alternatives to SQL (that do not compile to SQL)](#alternatives-to-sql-that-do-not-compile-to-sql)
 - [Relational Language Extensions (that do not compile to SQL)](#relational-language-extensions-that-do-not-compile-to-sql)
 - [Misc](#misc)
@@ -37,23 +33,6 @@ A curated list of languages that compile to, or generate, SQL
 | [Yedalog](https://research.google/pubs/pub43462/) | A logic programming language from Google that compiles to SQL | NONE |
 | [Logica](https://logica.dev/) | Successor to Yedalog, and inspired by Datalog, it's an open source logic programming language from Google. It compiles to SQL which can run on Google BigQuery, and has experimental support for PostgreSQL and SQLite | https://github.com/EvgSkv/logica |
 | [Constraint Handling Rules (CHR)](https://en.wikipedia.org/wiki/Constraint_Handling_Rules) | A declarative, rule-based programming language. Although CHR is Turing complete, it is not commonly used as a programming language in its own right. Rather, it is used to extend a host language with constraints. Prolog is by far the most popular host language and CHR is included in several Prolog implementations, including SICStus and SWI-Prolog, although CHR implementations also exist for Haskell, Java, C, SQL, and JavaScript. There is a [CHR2 to SQL converter](https://github.com/awto/chr2sql) available | https://github.com/awto/chr2sql |
-
-
-## Language DSLs
-
-TODO
-
-## Visual Programming
-
-TODO
-
-## ORMs
-
-TODO
-
-## Ideas/Proposals
-
-TODO
 
 ## Alternatives to SQL (that do not compile to SQL)
 
