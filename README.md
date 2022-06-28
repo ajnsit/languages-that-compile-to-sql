@@ -9,7 +9,6 @@ A curated list of languages that compile to, or generate, SQL
 - [Language DSLs](#language-dsls)
 - [Visual Programming](#visual-programming)
 - [ORMs](#orms)
-- [SQL Extensions](#sql-extensions)
 - [Ideas/Proposals](#ideasproposals)
 - [Alternatives to SQL (that do not compile to SQL)](#alternatives-to-sql-that-do-not-compile-to-sql)
 - [Relational Language Extensions (that do not compile to SQL)](#relational-language-extensions-that-do-not-compile-to-sql)
@@ -49,10 +48,6 @@ TODO
 TODO
 
 ## ORMs
-
-TODO
-
-## SQL Extensions
 
 TODO
 
